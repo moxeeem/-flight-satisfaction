@@ -1,6 +1,5 @@
 # ✈️ Прогнозирование удовлетворенности пассажиров авиакомпании
-[![plane.jpg](https://s8d6.turboimg.net/sp/819c460c696bc632fbbc27f5cf97e2b0/plane.jpg)](https://www.turboimagehost.com/p/90341179/plane.jpg.html)
-
+![plane.jpg](https://github.com/moxeeem/FlightSatisfaction/blob/main/img/plane.jpg)
 ## Описание
 
 В данном проекте решается задача прогноза удовлетворенности клиентов полетом.
